@@ -1,0 +1,10 @@
+C:\Users\Iván Pizarro Farías\source\repos\SorteoRifav2\SorteoRifav2\bin\Debug\SorteoRifav2.exe.config
+C:\Users\Iván Pizarro Farías\source\repos\SorteoRifav2\SorteoRifav2\bin\Debug\SorteoRifav2.exe
+C:\Users\Iván Pizarro Farías\source\repos\SorteoRifav2\SorteoRifav2\bin\Debug\SorteoRifav2.pdb
+C:\Users\Iván Pizarro Farías\source\repos\SorteoRifav2\SorteoRifav2\obj\Debug\SorteoRifav2.csprojAssemblyReference.cache
+C:\Users\Iván Pizarro Farías\source\repos\SorteoRifav2\SorteoRifav2\obj\Debug\SorteoRifav2.Form1.resources
+C:\Users\Iván Pizarro Farías\source\repos\SorteoRifav2\SorteoRifav2\obj\Debug\SorteoRifav2.Properties.Resources.resources
+C:\Users\Iván Pizarro Farías\source\repos\SorteoRifav2\SorteoRifav2\obj\Debug\SorteoRifav2.csproj.GenerateResource.cache
+C:\Users\Iván Pizarro Farías\source\repos\SorteoRifav2\SorteoRifav2\obj\Debug\SorteoRifav2.csproj.CoreCompileInputs.cache
+C:\Users\Iván Pizarro Farías\source\repos\SorteoRifav2\SorteoRifav2\obj\Debug\SorteoRifav2.exe
+C:\Users\Iván Pizarro Farías\source\repos\SorteoRifav2\SorteoRifav2\obj\Debug\SorteoRifav2.pdb
